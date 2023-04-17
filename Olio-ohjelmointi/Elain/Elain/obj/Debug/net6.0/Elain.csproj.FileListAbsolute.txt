@@ -1,0 +1,15 @@
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\bin\Debug\net6.0\Elain.exe
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\bin\Debug\net6.0\Elain.deps.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\bin\Debug\net6.0\Elain.runtimeconfig.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\bin\Debug\net6.0\Elain.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\bin\Debug\net6.0\Elain.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.csproj.AssemblyReference.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.AssemblyInfoInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.AssemblyInfo.cs
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.csproj.CoreCompileInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\refint\Elain.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\Elain.genruntimeconfig.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Elain\obj\Debug\net6.0\ref\Elain.dll

@@ -1,0 +1,15 @@
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\bin\Debug\net6.0\Harjotus1.exe
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\bin\Debug\net6.0\Harjotus1.deps.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\bin\Debug\net6.0\Harjotus1.runtimeconfig.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\bin\Debug\net6.0\Harjotus1.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\bin\Debug\net6.0\Harjotus1.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.csproj.AssemblyReference.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.AssemblyInfoInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.AssemblyInfo.cs
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.csproj.CoreCompileInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\refint\Harjotus1.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\Harjotus1.genruntimeconfig.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Elain\Harjotus1\obj\Debug\net6.0\ref\Harjotus1.dll
