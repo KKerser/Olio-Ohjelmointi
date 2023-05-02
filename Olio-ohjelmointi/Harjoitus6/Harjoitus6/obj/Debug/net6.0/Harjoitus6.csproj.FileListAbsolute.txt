@@ -1,0 +1,15 @@
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\bin\Debug\net6.0\Harjoitus6.exe
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\bin\Debug\net6.0\Harjoitus6.deps.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\bin\Debug\net6.0\Harjoitus6.runtimeconfig.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\bin\Debug\net6.0\Harjoitus6.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\bin\Debug\net6.0\Harjoitus6.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.AssemblyReference.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfo.cs
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\refint\Harjoitus6.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.genruntimeconfig.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\ref\Harjoitus6.dll
