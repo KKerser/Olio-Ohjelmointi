@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elain", "Elain\Elain.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus1", "Harjotus1\Harjotus1.csproj", "{219698BB-712C-405B-9325-1690E29A9584}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{D6CA8DCC-D4B4-40D0-9DF2-86034B5B088D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{219698BB-712C-405B-9325-1690E29A9584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219698BB-712C-405B-9325-1690E29A9584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219698BB-712C-405B-9325-1690E29A9584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CA8DCC-D4B4-40D0-9DF2-86034B5B088D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CA8DCC-D4B4-40D0-9DF2-86034B5B088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CA8DCC-D4B4-40D0-9DF2-86034B5B088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CA8DCC-D4B4-40D0-9DF2-86034B5B088D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

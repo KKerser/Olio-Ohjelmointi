@@ -1,0 +1,15 @@
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\bin\Debug\net6.0\ProjektiScrum.exe
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\bin\Debug\net6.0\ProjektiScrum.deps.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\bin\Debug\net6.0\ProjektiScrum.runtimeconfig.json
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\bin\Debug\net6.0\ProjektiScrum.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\bin\Debug\net6.0\ProjektiScrum.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.csproj.AssemblyReference.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.AssemblyInfoInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.AssemblyInfo.cs
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.csproj.CoreCompileInputs.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\refint\ProjektiScrum.dll
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.pdb
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ProjektiScrum.genruntimeconfig.cache
+C:\Users\krister.kovalenko\source\repos\KKerser\Olio-Ohjelmointi\Olio-ohjelmointi\ProjektiScrum\ProjektiScrum\obj\Debug\net6.0\ref\ProjektiScrum.dll
